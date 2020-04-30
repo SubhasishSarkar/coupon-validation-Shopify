@@ -6,8 +6,8 @@ module.exports = {
             method: 'get',
             url: URL,
             headers: { 
-                'Key': 'b697692cc8ba3957e1ac73a42662d3d5',
-                'Value': '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'
+                'Key': '<API KEY>',
+                'Value': '<VALUE>'
              }
         }
         console.log("Respns                ");

@@ -10,7 +10,6 @@ module.exports = {
                 'Value': '<VALUE>'
              }
         }
-        console.log("Respns                ");
         return new Promise(function (res, rej) {
             axios(config).then(function (response) {
                 console.log(response.status);
